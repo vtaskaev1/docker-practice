@@ -1,5 +1,4 @@
-# Author: Vadim  Taskaev
-
+# author: Vadim  Taskaev
 FROM debian:stable
 
 RUN apt-get update
