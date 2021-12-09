@@ -1,4 +1,4 @@
-# author: Vadim Taskaev
+# Author: Vadim Taskaev
 
 FROM debian:stable
 
